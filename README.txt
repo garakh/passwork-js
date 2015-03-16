@@ -1,6 +1,6 @@
 Redistribution
 --------------
-Passwork.Core is an API Connector for Passwork Service (https://passwork.me)
+Javascript API Connector for Passwork Service (https://passwork.me)
 
 Check out the Example.
 
