@@ -6,7 +6,7 @@ Check out the Example.
 
 Copyrights
 ----------
-Passwork.Core is created by Passwork Team.
+Passwork-js is created by Passwork Team.
 
 The MIT License (MIT)
 
