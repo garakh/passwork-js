@@ -27,6 +27,8 @@ var PWTransport = function(creds) {
         if (!sessionCode) {
             openSession(function() {
                 request(url, data, cb, true);
+            }, function(){
+                cb(null);
             });
             return;
         }
